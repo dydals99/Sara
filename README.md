@@ -10,7 +10,7 @@
   - 개발도구 : STS 4
   - 데이터베이스 : MariaDB
   - 빌드 도구 : Gradle
-  - 사용 기술 : Spring Data JPA, Spring securiry, WebSocket, STOMP, Thymeleaf .. etc
+  - 사용 기술 : Spring Data JPA, Spring securiry + JWT, WebSocket, STOMP, Thymeleaf .. etc
 ## 📚ERD 
 
 ## 👨‍💻구현 기능
